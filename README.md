@@ -1,5 +1,36 @@
-# 💫 About Me:
-## 🙋 About Me<br><br>I am a **second-year student** at the *National Research University Higher School of Economics*, majoring in **Applied Mathematics**.<br>My main interests include:<br><br>* 🤖 **Machine Learning**<br>* 📐 **Advanced Mathematics**<br>* 📊 **Data Analysis**<br><br>I have successfully completed several projects in these fields, which have received high praise from my professors.<br><br>---<br><br>## 🎯 Career Goals<br><br>I aspire to join a **large company** as an **analyst**, where I can:<br><br>* 🧩 Tackle complex problems that require perseverance and determination<br>* 💡 Formulate bold hypotheses and test them in practice<br><br>---<br><br>## 💪 Personal Qualities<br><br>Throughout my studies, I have encountered various challenges but overcame them through **hard work** and **resilience**.<br>I am confident in my ability to handle any task and deliver results.<br><br>---<br><br>## 📚 Interests<br><br>In my free time, I enjoy:<br><br>* 📖 Reading **fiction** and **scientific literature**<br>* 🏃 Practicing **athletics**<br><br>
+# 🙋 About Me
+
+My name is Anna. I am a **second-year student** at the *National Research University Higher School of Economics*, majoring in **Applied Mathematics**.
+My main interests include:
+* * 🤖 **Machine Learning**
+* * 📐 **Advanced Mathematics**
+* * 📊 **Data Analysis**
+
+I have successfully completed several projects in these fields, which have received high praise from my professors.
+
+---
+
+## 🎯 Career Goals
+
+I aspire to join a **large company** as an **analyst**, where I can:
+
+* 🧩 Tackle complex problems that require perseverance and determination
+* 💡 Formulate bold hypotheses and test them in practice
+
+---
+
+## 💪 Personal Qualities
+
+Throughout my studies, I have encountered various challenges but overcame them through **hard work** and **resilience**.<br>I am confident in my ability to handle any task and deliver results.
+
+---
+
+## 📚 Interests
+
+In my free time, I enjoy:
+
+* 📖 Reading **fiction** and **scientific literature**
+* 🏃 Practicing **athletics**<br><br>
 
 
 # 💻 Tech Stack:
