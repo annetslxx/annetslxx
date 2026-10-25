@@ -1,6 +1,6 @@
 # 🙋 About Me
 
-My name is Anna. I am a **second-year student** at the *National Research University Higher School of Economics*, majoring in **Applied Mathematics**.
+My name is Anna. I am a **third-year student** at the *National Research University Higher School of Economics*, majoring in **Applied Mathematics**.
 My main interests include:
 * 🤖 **Machine Learning**
 * 📐 **Advanced Mathematics**
